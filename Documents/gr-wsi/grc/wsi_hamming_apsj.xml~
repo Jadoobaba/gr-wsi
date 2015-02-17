@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<block>
+  <name>hamming_apsj</name>
+  <key>wsi_hamming_apsj</key>
+  <category>wsi</category>
+  <import>import wsi</import>
+  <make>wsi.hamming_apsj($fer)</make>
+  
+  <param>
+    <name>FER</name>
+    <key>fer</key>
+    <type>int</type>
+  </param>
+
+    <sink>
+    <name>in</name>
+    <type>byte</type>
+  </sink>
+
+  <!-- Make one 'source' node per output. Sub-nodes:
+       * name (an identifier for the GUI)
+       * type
+       * vlen
+       * optional (set to 1 for optional inputs) -->
+  <source>
+    <name>out</name>
+    <type><!-- e.g. int, float, complex, byte, short, xxx_vector, ...--></type>
+  </source>
+</block>

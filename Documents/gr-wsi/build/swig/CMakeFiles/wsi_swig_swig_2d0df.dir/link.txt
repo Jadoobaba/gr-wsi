@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/wsi_swig_swig_2d0df.dir/wsi_swig_swig_2d0df.cpp.o  -o wsi_swig_swig_2d0df -rdynamic 

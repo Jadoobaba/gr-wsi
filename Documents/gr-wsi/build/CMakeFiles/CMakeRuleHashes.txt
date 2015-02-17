@@ -1,0 +1,13 @@
+# Hashes of file build rules.
+4a89a8cbc91a06615b3b0d3ce793ffad CMakeFiles/uninstall
+00274483b221bd341693b8a3225096cb python/CMakeFiles/pygen_python_5b191
+12f2131c1dafccbfd788b22c25640e39 python/__init__.pyc
+047b005030bf7aa012c85cc7d03f2c58 python/__init__.pyo
+54b5a1b7a084b68f5369ab1173a53ad6 swig/CMakeFiles/pygen_swig_1dc7d
+54b5a1b7a084b68f5369ab1173a53ad6 swig/CMakeFiles/wsi_swig_swig_doc
+54b5a1b7a084b68f5369ab1173a53ad6 swig/wsi_swig.py
+39118acef3dc3cc9c98b04d1fbb05b91 swig/wsi_swig.pyc
+2b984c2bfeae5c9b69d489db9bb8ed3e swig/wsi_swig.pyo
+5243584779e05b2e263a2c63c45bf96f swig/wsi_swig.tag
+54b5a1b7a084b68f5369ab1173a53ad6 swig/wsi_swigPYTHON_wrap.cxx
+166e9caf04d169cc3e8634148efbbf93 swig/wsi_swig_swig_2d0df.cpp

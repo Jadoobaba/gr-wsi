@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<block>
+  <name>hamming</name>
+  <key>wsi_hamming</key>
+  <category>wsi</category>
+  <import>import wsi</import>
+  <make>wsi.hamming($m)</make>
+ 
+  <param>
+    <name>M</name>
+    <key>m</key>
+    <value>3</value>
+    <type>int</type>
+  </param>
+
+
+  <sink>
+    <name>in</name>
+    <type>byte</type>
+    <vlen>4</vlen>
+  </sink>
+
+  <source>
+    <name>out</name>
+    <type>byte</type>
+    <vlen>7</vlen>
+  </source>
+</block>

@@ -1,0 +1,13 @@
+/usr/local/include/wsi/api.h
+/usr/local/include/wsi/hamming.h
+/usr/local/lib/libgnuradio-wsi.so
+/usr/local/lib/python2.7/dist-packages/wsi/_wsi_swig.so
+/usr/local/lib/python2.7/dist-packages/wsi/wsi_swig.py
+/usr/local/lib/python2.7/dist-packages/wsi/wsi_swig.pyc
+/usr/local/lib/python2.7/dist-packages/wsi/wsi_swig.pyo
+/usr/local/include/wsi/wsi/swig/wsi_swig.i
+/usr/local/include/wsi/wsi/swig/wsi_swig_doc.i
+/usr/local/lib/python2.7/dist-packages/wsi/__init__.py
+/usr/local/lib/python2.7/dist-packages/wsi/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/wsi/__init__.pyo
+/usr/local/share/gnuradio/grc/blocks/wsi_hamming.xml

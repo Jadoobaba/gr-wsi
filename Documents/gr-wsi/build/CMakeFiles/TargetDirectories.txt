@@ -1,0 +1,9 @@
+/home/iiitd/Documents/gr-wsi/build/swig/CMakeFiles/_wsi_swig.dir
+/home/iiitd/Documents/gr-wsi/build/swig/CMakeFiles/_wsi_swig_swig_tag.dir
+/home/iiitd/Documents/gr-wsi/build/lib/CMakeFiles/gnuradio-wsi.dir
+/home/iiitd/Documents/gr-wsi/build/python/CMakeFiles/pygen_python_5b191.dir
+/home/iiitd/Documents/gr-wsi/build/swig/CMakeFiles/pygen_swig_1dc7d.dir
+/home/iiitd/Documents/gr-wsi/build/lib/CMakeFiles/test-wsi.dir
+/home/iiitd/Documents/gr-wsi/build/CMakeFiles/uninstall.dir
+/home/iiitd/Documents/gr-wsi/build/swig/CMakeFiles/wsi_swig_swig_2d0df.dir
+/home/iiitd/Documents/gr-wsi/build/swig/CMakeFiles/wsi_swig_swig_doc.dir
